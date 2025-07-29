@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702468218640",
+    "project_id": "shemadev2-4fa57",
+    "storage_bucket": "shemadev2-4fa57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702468218640:android:b3a80349fe374d5b5acf95",
+        "android_client_info": {
+          "package_name": "com.example.shemadev2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANv0t5E3thqazcmW2XeQlEHiUI-EYxpTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

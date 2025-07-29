@@ -1,0 +1,2 @@
+C:/Users/tomie/shemadev2/android/app/.cxx/RelWithDebInfo/1l236356/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/tomie/shemadev2/android/app/.cxx/RelWithDebInfo/1l236356/armeabi-v7a/CMakeFiles/rebuild_cache.dir
